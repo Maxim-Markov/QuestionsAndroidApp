@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Questions</string>
+    <string name="button_true">Да</string>
+    <string name="button_false">Нет</string>
+    <string name="button_next">Следующий</string>
+    <string name="button_prev">Предыдущий</string>
+    <string name="incorrect_toast">Неверно!</string>
+    <string name="correct_toast">Верно!</string>
+    <string name="quest_austr">Столица Австралии - Перу?</string>
+    <string name="quest_rus">Столица России - Кремль?</string>
+    <string name="quest_Jap">Столица Японии - Токио?</string>
+    <string name="quest_braz">Столица Бразилии - Бразилиа?</string>
+    <string name="quest_ind">Столица Индии - Дели?</string>
+    <string name="result">"Вопросов решено верно: %1$d из %2$d\nВы подсмотрели ответ в %3$d вопросах"</string>
+    <string name="cheat_counter">""</string>
+    <string name="warning_text">Вы действительно хотите это сделать?</string>
+    <string name="show_answer_button">Показать ответ</string>
+    <string name="cheat_button">Сжульничать!</string>
+    <string name="judgment_toast">Жульничать нехорошо</string>
+    <string name="cheats_left">Осталось подсказок: %1d</string>
+
+</resources>
